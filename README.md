@@ -1,6 +1,6 @@
 # tcpfastopen
 
-TO check if mininet is correctly installed and to debug the host connectivity,
+To check if mininet is correctly installed and to debug the host connectivity,
 
 ubuntu@ip-172-31-31-175:~/project-copy/master$ sudo mn
 *** Creating network
