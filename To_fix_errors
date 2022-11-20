@@ -1,0 +1,8 @@
+Few of the links used to fix errors:
+https://stackoverflow.com/questions/70965770/unable-to-mount-memory-cgroup
+https://stackoverflow.com/questions/65977607/grub-error-systemd-unified-cgroup-hierarchy-0-not-found
+https://askubuntu.com/questions/1399741/trying-to-fix-docker-cgroup-doesnt-match-target-mode-with-adding-kernel-boot
+
+https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt
+http://mininet.org/download/
+https://github.com/mininet/mininet
