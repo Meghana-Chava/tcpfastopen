@@ -1,0 +1,445 @@
+login as: ubuntu
+Authenticating with public key "cs536_aws_keys"
+Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-1023-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Thu Nov 17 22:43:28 UTC 2022
+
+  System load:  0.0                Processes:             110
+  Usage of /:   13.4% of 28.89GB   Users logged in:       0
+  Memory usage: 3%                 IPv4 address for eth0: 172.31.31.175
+  Swap usage:   0%
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+18 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+
+Last login: Thu Nov 17 22:17:48 2022 from 128.210.106.60
+ubuntu@ip-172-31-31-175:~$
+ubuntu@ip-172-31-31-175:~$
+ubuntu@ip-172-31-31-175:~$
+ubuntu@ip-172-31-31-175:~$
+ubuntu@ip-172-31-31-175:~$ history
+    1  git clone https://bitbucket.org/Gasparila/cs244-pa3/src/master/
+    2  ls
+    3  cd project-copy
+    4  mkdir project-copy
+    5  mv master ./project-copy/
+    6  ls
+    7  cd project-copy
+    8  ls
+    9  cd project-copy
+   10  ls
+   11  cd master/
+   12  ls
+   13  python3 tcp_fastopen.py
+   14  python2 tcp_fastopen.py
+   15  python tcp_fastopen.py
+   16  sudo apt install python2
+   17  python2 tcp_fastopen.py
+   18  ping github.com
+   19  python2 tcp_fastopen.py
+   20  pip install termcolor
+   21  cd ..
+   22  cd..
+   23  cd ..
+   24  sudo apt install python3-pip
+   25  cd project-copy/
+   26  cd master/
+   27  python2 tcp_fastopen.py
+   28  python tcp_fastopen.py
+   29  python3 tcp_fastopen.py
+   30  pip install mininet
+   31  python2
+   32  git clone https://github.com/mininet/mininet
+   33  ls
+   34  cd mininet
+   35  git tag  # list available versions
+   36  git checkout -b mininet-2.3.0 2.3.0  # or whatever version you wish to install
+   37  cd ..
+   38  mininet/util/install.sh [options]
+   39  install.sh -a
+   40  mininet/util/install.sh -a
+   41  sudo mn --switch ovsbr --test pingall
+   42  sudo PYTHON=python2 mininet/util/install.sh -n
+   43  sudo apt install python2-pip
+   44  sudo apt update
+   45  sudo apt install python2-pip
+   46  sudo apt install pip
+   47  pip install mininet
+   48  ls
+   49  cd mininet
+   50  ls
+   51  cd project-copy
+   52  cd ..
+   53  cd project-copy
+   54  ls
+   55  cd master/
+   56  ls
+   57  python2 tcp_fastopen.py
+   58  python tcp_fastopen.py
+   59  sudo apt get python
+   60  sudo apt-\get python
+   61  sudo apt-get python
+   62  sudo apt-get python3
+   63  sudo apt install python3
+   64  sudo apt install python
+   65  sudo apt install python2
+   66  sudo apt update python2
+   67  sudo apt-update python2
+   68  python2 tcp_fastopen.py
+   69  python2
+   70  find /usr/local -name "*mininet*"
+   71  find /usr/local -name "*mn*"
+   72  cd..
+   73  cd ..
+   74  find /usr/local -name "*mininet*"
+   75  find / -name "*mininet*"
+   76  sudo PYTHON=python2 mininet/util/install.sh -n
+   77  sudo PYTHON=python mininet/util/install.sh -n
+   78  sudo apt-get install python-pexpect
+   79  sudo apt-get install python-pexpect-doc
+   80  sudo PYTHON=python2 mininet/util/install.sh -n
+   81  sudo pip install pyexpect
+   82  sudo PYTHON=python2 mininet/util/install.sh -n
+   83  sudo apt-get install python-pexpect
+   84  sudo apt-get install python2-pexpect
+   85  sudo pip install mininet
+   86  sudo PYTHON=python2 mininet/util/install.sh -n
+   87  sudo PYTHON=python2 mininet/util/install.sh
+   88  sudo pip install mininet
+   89  sudo pip install python-pexpect
+   90  sudo pip install
+   91  sudo pip install pexpect
+   92  sudo PYTHON=python2 mininet/util/install.sh
+   93  --ver
+   94  veritysetup
+   95  /etc/lsb-release
+   96  sudo /etc/lsb-release
+   97  cat /etc/os-release
+   98  ls
+   99  rm -rf mininet
+  100  git clone https://github.com/mininet/mininet
+  101  sudo apt-get uninstall mininet
+  102  sudo pip uninstall mininet
+  103  cd mininet
+  104  git fetch  # to fetch the latest and greatest branches and tags
+  105  mininet/util/install.sh
+  106  git checkout -b mininet-2.3.0 2.3.0
+  107  cd ..
+  108  sudo apt-get uninstall mininet
+  109  sudo pip uninstall mininet
+  110  git tag    # to see what versions are available
+  111  cd mininet
+  112  git fetch  # to fetch the latest and greatest branches and tags
+  113  git tag    # to see what versions are available
+  114  git checkout -b mininet-2.3.0 2.3.0
+  115  ..
+  116  cd ..
+  117  sudo mininet/util/install.sh -nfv
+  118  sudo PYTHON=python3 mininet/util/install.sh
+  119  ping 8.8.8.8
+  120  ping 140.82.114.4
+  121  sudo PYTHON=python3 mininet/util/install.sh
+  122  ping github.com
+  123  sudo PYTHON=python3 mininet/util/install.sh -a
+  124  sudo python2 `which mn`
+  125  sudo apt-get install pip3
+  126  sudo apt-get install python-pip3
+  127  sudo pip3 install mininet
+  128  sudo pip install mininet
+  129  sudo python2 `which mn`
+  130  sudo python3 `which mn`
+  131  git clone git://github.com/mininet/openflow
+  132  git clone https://github.com/mininet/openflow.git
+  133  ls
+  134  cd openflow/
+  135  l
+  136  ls
+  137  ls -ltr
+  138  xd ..
+  139  cd ..
+  140  ls
+  141  ./openflow/install
+  142  ./openflow/INSTALL
+  143  sudo ./openflow/INSTALL
+  144  ./util/install.sh -nfv
+  145  ls ./openflow/utilities/
+  146  find ./openflow/ -name "*install.sh"
+  147  find ./openflow/ -name "*.sh"
+  148  ./openflow/boot.sh
+  149  sudo ./openflow/boot.sh
+  150  sudo pip install mininet
+  151  pip install openflow/
+  152  pip install openflow
+  153  sudo python3 `which mn`
+  154  pip install ovs-vsctl
+  155  mininet/util/install.sh -a
+  156  python3 mininet/util/install.sh -a
+  157  mininet/util/install.sh -nv
+  158  mininet/util/install.sh -nf
+  159  mininet/util/install.sh -fv
+  160  python3 mininet/util/install.sh -a
+  161  mininet/util/install.sh -a
+  162  pip install python-pexpect
+  163  pip3 install python-pexpect
+  164  pip3 install pexpect
+  165  pip install pexpect
+  166  mininet/util/install.sh -a
+  167  mininet/util/install.sh -nfv
+  168  cat mininet/util/install.sh
+  169  cat mininet/util/install.sh | grep -i pexpe
+  170  cat mininet/util/install.sh -c| grep -i pexpe
+  171  cat mininet/util/install.sh -wc | grep -i pexpe
+  172  cat mininet/util/install.sh -n | grep -i pexpe
+  173  vi mininet/util/install.sh
+  174  cat mininet/util/install.sh -n | grep -i pexpe
+  175  mininet/util/install.sh -a
+  176  ls
+  177  rm -rf openflow/
+  178  mininet/util/install.sh -a
+  179  mininet/util/install.sh | grep -i gith
+  180  cat mininet/util/install.sh | grep -i gith
+  181  cat mininet/util/install.sh | grep -i open
+  182  cat mininet/util/install.sh | grep -i openHello,
+  183  cat mininet/util/install.sh -n | grep -i openflow
+  184  ]
+  185  cat mininet/util/install.sh -n | grep -i github.com
+  186  mkdir test
+  187  git clone git://github.com/mininet/openflow
+  188  vi mininet/util/install.sh
+  189  cd ..
+  190  vi mininet/util/install.sh
+  191  mininet/util/install.sh -a
+  192  cat mininet/util/install.sh -n | grep -i github.com
+  193  vi mininet/util/install.sh
+  194  mininet/util/install.sh -a
+  195  ls
+  196  rm -rf openflow
+  197  rm -rf pox
+  198  mininet/util/install.sh -a
+  199  vi mininet/util/install.sh
+  200  cat mininet/util/install.sh -n | grep -i github.com
+  201  vi mininet/util/install.sh
+  202  ls
+  203  rm -rf oflops
+  204  rm -rf oftest/
+  205  ls
+  206  rm -rf openflow/
+  207  vi mininet/util/install.sh -nfv
+  208  mininet/util/install.sh -nfv
+  209  sudo python3 `which mn`
+  210  ls
+  211  cd project-copy
+  212  ls
+  213  cd mas
+  214  ls
+  215  cd master/
+  216  ls
+  217  python tcp_fastopen.py
+  218  python3 tcp_fastopen.py
+  219  vi tcp_fastopen.py
+  220  python3 tcp_fastopen.py
+  221  vi tcp_fastopen.py
+  222  python3 tcp_fastopen.py
+  223  pip3 install termcolor
+  224  python3 tcp_fastopen.py
+  225  python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./
+  226  ls
+  227  ls -ltr
+  228  ls http
+  229  mkdir opdir
+  230  python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./opdir
+  231  ls
+  232  ls opdir
+  233  ls -ltr
+  234  sudo python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./opdir
+  235  sudo pip3 install termcolor
+  236  sudo python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./opdir
+  237  ls opdir
+  238  sudo python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./opdir
+  239  netstat
+  240  netstat | grep 6653
+  241  netstat -p
+  242  netstat -t -u
+  243  ls opdir/
+  244  sudo python3 tcp_fastopen.py -s amazon.com --delay 10 -d ./opdir
+  245  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  246  grep cgroup /proc/mounts
+  247  df -h
+  248  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  249  df -h
+  250  ls /sys/fs/cgroup/
+  251  sudo mn --host rt
+  252  vi project-copy/master/tcp_fastopen.py
+  253  sudo apt-get update mininet
+  254  sudo apt-get update
+  255  echo py sys.version | sudo mn -v output
+  256  sudo PYTHON=python3 mininet/util/install.sh -n
+  257  vi mininet/util/install.sh
+  258  sudo PYTHON=python3 mininet/util/install.sh -n
+  259  cat mininet/util/install.sh -n | grep -i pexpect
+  260  vi mininet/util/install.sh
+  261  sudo PYTHON=python3 mininet/util/install.sh -n
+  262  echo py sys.version | sudo mn -v output
+  263  mount -t cgroup2 none /mnt/cgroup2
+  264  ls /
+  265  ls -ltr /mnt
+  266  sudo            mount -t cgroup -o all cgroup /sys/fs/cgroup
+  267  ls /mnt
+  268  sudo mount -t cgroup -o all cgroup /sys/fs/cgroup
+  269  cgroup_enable=memory systemd.unified_cgroup_hierarchy=0
+  270  sudo cgroup_enable=memory systemd.unified_cgroup_hierarchy=0
+  271  cat /proc/cgroups | column -t
+  272  mount | grep cgroup
+  273  mount
+  274  cgroup_enable=memory systemd.unified_cgroup_hierarchy=0
+  275  sudo -i
+  276  mount | grep cgroup
+  277  cd project-copy/
+  278  ls
+  279  cd master/
+  280  ls
+  281  python3 tcp_fastopen.py
+  282  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  283  cgroup_enable=memory systemd.unified_cgroup_hierarchy=0
+  284  GRUB_CMDLINE_LINUX="systemd.unified_cgroup_hierarchy=0"
+  285  reload
+  286  reboot
+  287  sudo reboot
+  288  cd project-copy/master/
+  289  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  290  mount
+  291  mount | grep cgroup
+  292  sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=0"
+  293  grep unified_cgroup_hierarchy /etc/default/grub
+  294  grep unified_cgroup_hierarchy /boot/grub2/grubenv
+  295  sudo nano /etc/default/grub
+  296  sudo vi /etc/default/grub
+  297  sudo update-grub
+  298  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  299  sudo reboot
+  300  mount | grep cgroup
+  301  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  302  cd project-copy/master/
+  303  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  304  grep cgroup /proc/mounts
+  305  ls
+  306  cd /home
+  307  ls
+  308  cd ubuntu/
+  309  ls
+  310  cd mininet
+  311  ls
+  312  cd mininet
+  313  ls
+  314  vi util.py
+  315  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  316  vi util.py
+  317  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  318  vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  319  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  320  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  321  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  322  vi util.py
+  323  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  324  cd ..
+  325  mount -t tmpfs cgroup_root /sys/fs/cgroup
+  326  sudo mount -t tmpfs cgroup /sys/fs/cgroup
+  327  mkdir /sys/fs/cgroup/cpuset
+  328  mount -t cgroup -ocpuset cpuset /sys/fs/cgroup/cpuset
+  329  sudo mount -t cgroup -ocpuset cpuset /sys/fs/cgroup/cpuset
+  330  cat /proc/mounts | grep cgroup
+  331  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  332  mount -t tmpfs cgroups /sys/fs/cgroup
+  333  sudo mount -t tmpfs cgroups /sys/fs/cgroup
+  334  cat /proc/mounts | grep cgroup
+  335  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  336  sudo mount -t cgroup -ocpuset cpuset /sys/fs/cgroup/cpuset
+  337  cat /proc/cgroups
+  338  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  339  ls
+  340  cd project-copy
+  341  ls
+  342  cd master/
+  343  ls
+  344  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  345  lscd ..
+  346  cd ..
+  347  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  348  cat /proc/mount | grep cgroup
+  349  cat /proc/mounts | grep cgroup
+  350  sudo vi /etc/default/grub
+  351  cat /proc/mount | grep cgroup
+  352  grep 'cgroup' /etc/default/grub
+  353  sudo   mount -t tmpfs cgroup_root /sys/fs/cgroup
+  354  sudo   mount -t cgroup cpuset -ocpuset /sys/fs/cgroup/cpuset
+  355  cat /proc/mount | grep cpu
+  356  cat /proc/mounts | grep cpu
+  357  cat /proc/mounts | grep cgr
+  358  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  359  sudo   mount -t tmpfs cgroups /sys/fs/cgroup
+  360  cat /proc/mounts | grep cgr
+  361  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  362  sudo reboot
+  363  df -h
+  364  df
+  365  df --help
+  366  df -a
+  367  cat /proc/mounts | grep cgr
+  368  ls
+  369  cd project-copy/
+  370  ls
+  371  cd master/
+  372  ls
+  373  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  374  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  375  cd ../..
+  376  ls
+  377  cd mininet/
+  378  cd mininet
+  379  ls
+  380  vi util.py
+  381  cat /proc/mounts
+  382  cat /proc/mounts  |grep cgroup
+  383  sudo python3 tcp_fastopen.py --delay 10 -d ./opdir
+  384  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  385  sudo python3 /project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  386  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  387  vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  388  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  389  cd ..
+  390  history | grep nfv
+  391  sudo python3 ../../project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  392  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  393  sudo   mount -t tmpfs cgroup_root /sys/fs/cgroup
+  394  sudo   mount -t cgroup cpuset -ocpuset /sys/fs/cgroup/cpuset
+  395  mkdir /sys/fs/cgroup/cpuset
+  396  sudo   mount -t cgroup cpuset -ocpuset /sys/fs/cgroup/cpuset
+  397  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  398  cgcreate -g cpu,cpuacct,cpuset:/h1
+  399  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  400  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  401  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  402  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  403  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  404  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  405  cgroup_enable=memory systemd.unified_cgroup_hierarchy=0
+  406  sudo vi /etc/default/grub
+  407  cat /proc/cmdline
+  408  cat /proc/mounts | grep cgro
+  409  sudo vi /usr/local/lib/python3.10/dist-packages/mininet/util.py
+  410  sudo python3 ./project-copy/master/tcp_fastopen.py --delay 10 -d ./opdir
+  411  cd ./project-copy/master/
+  412  ls
+  413  exit
+  414  history
+ubuntu@ip-172-31-31-175:~$
